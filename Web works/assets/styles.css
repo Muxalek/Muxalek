@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+}
+body {
+ background-color: white;
+}
+
+.container {    
+  width: 100%;
+  max-width: 1841px;
+  padding: 30px;    
+  display: flex;
+  justify-content: space-between;
+  background-color: #262626;
+}
+
+.home {
+  display: flex;
+  align-items: center;
+  min-height: 1000px;
+  background: url(%D0%BF%D0%B0%D1%84%D0%BE%D1%81.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.home .content {
+  max-width: 1000px;
+}
+
+.home .content h3 {
+  font-size: 50px;
+  color: #afc6dd;
+  line-height: 2;
+text-align: left;
+    
+}
+
+.home .content span {
+  font-size: 35px;
+  color: #afb8dd;
+  line-height: 1;
+}
+
+.home .content p {
+  font-size: 25px;
+  color: #afc6dd;
+  padding: 20px 0;
+  line-height: 1.5;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 60%;
+  background: rgba(51, 51, 51, 0.63);
+  color: #afb8dd;
+  padding: 30px 50px;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.list{
+   padding:20px;
+}
+.list h1 {
+  line-height: 2;
+}
+.list p{
+   font-size:20px;
+}
+.list a img{
+   margin-left:550px;
+}
+
+
+/NAV===============================/ .nav {
+  display: flex;
+  font-size: 13px;
+  font-weight: 700;
+ 
+}
+
+.nav_link {
+  margin-left: 100px;
+  text-decoration: none;
+  color: white;
+  opacity: 0.75;
+  text-align: center;
+  width: 700px;
+}
+
+.nav_link:hover {
+  opacity: 1;
+}
+
+.nav_link:first-child {
+  margin-left: 0;
+}
+
+.claasforp {
+  background-color: rgb(202, 228, 229);
+
+}
+h1 {
+  font-family: fantasy;
+}
+
+h2 {
+  color: #afc6dd;
+  text-indent: 100px;
+}
+
+h3 {
+  font-family: Lobster, monospace;
+  text-align: center;
+}
+
+footer {
+  background-color: #262626;
+}
+
+.content {
+  color:  white;
+}
+
+.content_container {
+  max-width: 1200px;
+  margin: 0px auto;
+  padding: 50px 15px;
+  line-height: 150%;
+}
+
+.content_container p {
+  margin: 0px 0px 20px 0px;
+}
+
+webkit-scrollbar {
+  width: 4px;
+}
+
+webkit-scrollbar-thumb {
+  background-color: black;
+  border-radius: 5px;
+}
+
+webkit-scrollbar-track {
+  background-color: grey;
+}
+
+
+

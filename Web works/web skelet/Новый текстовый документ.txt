@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="eng">
+<<head>
+ <meta charset="UTF-8">
+ <title> Assigment 1  </title>
+ <link rel= "stylesheet" href="<styles.css">
+ </head>
+ <body>
+   <h1> Hello teacher </h1>
+   <p> Today we are teaching the web <a href="#"> comments</a></p>
+</body>
+<ul>
+  <li>first   </li>
+  <li> second </li>
+</ul>
+<ol>
+  <li> third   </li>
+  <li> fourth </li>
+</ol>
+<img scr=" "  alt="<nothing></nothing>"
+
+</html>
